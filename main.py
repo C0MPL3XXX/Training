@@ -1,7 +1,4 @@
 import requests
-import numpy as np
-import matplotlib.pyplot as plt
-from matplotlib.pyplot import figure
 
 url = 'https://www.alphavantage.co/support/query?function=TIME_SERIES_DAILY_ADJUSTED&outputsize=full&symbol=SPY&apikey=KJHKP6CLUF0BQ40A'
 
